@@ -1,4 +1,3 @@
-# purdue-jenkinsfile-demo
 pipeline{
     
     tools{
